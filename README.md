@@ -1,16 +1,23 @@
-### Hi there 👋
+# 418 I'm a teapot
 
-<!--
-**TRBF/TRBF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I attempt to code stuff, sometimes it works out, other times stuff blows up.
+I also do competitive programming sometimes, although I'm mostly bad at it.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Small bits of knowledge in:
+- Python
+- Java
+- C
+- Javascript
+- GDScript
+- Python Web Frameworks
+- HTML & CSS
+- Linux stuff
+
+## Things I wanna learn/get better at:
+- C
+- Rust
+- Not using Python
+- Not using Javascript
+
+### "May the compiler be with you"
