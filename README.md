@@ -7,7 +7,7 @@ I also do competitive programming sometimes, although I'm mostly bad at it.
 ## Small bits of knowledge in:
 - Python
 - Java
-- C
+- C/C++
 - Javascript
 - GDScript
 - Python Web Frameworks
@@ -21,4 +21,4 @@ I also do competitive programming sometimes, although I'm mostly bad at it.
 - Not using Javascript
 
 ### "May the compiler be with you"
-## 19102
+#### 19102
