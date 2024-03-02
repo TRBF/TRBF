@@ -11,6 +11,7 @@ I also do competitive programming sometimes, although I'm mostly bad at it.
 - Javascript
 - GDScript
 - Python Web Frameworks
+- React
 - HTML & CSS
 - Linux stuff
 
